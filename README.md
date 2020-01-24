@@ -1,3 +1,5 @@
+# Virtues of Variety
+
 This is the ghost theme for the [Virtues of Variety blog](https://virtuesofvariety.com/)
 
 &nbsp;

@@ -156,7 +156,7 @@ body {
     align-items: center;
     padding: 6vw 3vw;
     min-height: 200px;
-    max-height: 340px;
+    max-height: 300px;
 }
 
 .site-title {
@@ -169,7 +169,7 @@ body {
 }
 
 .site-logo {
-    max-height: 55px;
+    max-height: 145px;
 }
 
 .site-description {
