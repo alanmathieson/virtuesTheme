@@ -2,7 +2,7 @@
     "name": "virtues",
     "description": "Theme for virtues of variety blog. Copyright (c) virtues of variety",
     "demo": "https://demo.ghost.io",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"

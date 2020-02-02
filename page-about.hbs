@@ -48,6 +48,16 @@ into the {body} of the default.hbs template --}}
 
         </article>
 
+
+    </div>
+    <div class="inner posts">
+        <div class="post-feed">
+            {{#get "posts" filter="tag:about"}}
+                {{#foreach posts}}
+                    {{> "post-card"}}
+                {{/foreach}}
+            {{/get}}
+        </div>
     </div>
 </main>
 
