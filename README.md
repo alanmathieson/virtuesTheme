@@ -4,7 +4,7 @@ This is the ghost theme for the [Virtues of Variety blog](https://virtuesofvarie
 
 &nbsp;
 
-![virtues logo]()
+![virtues logo](https://virtuesofvariety.com/content/images/2020/01/vofvlogo-1.png)
 
 &nbsp;
 
